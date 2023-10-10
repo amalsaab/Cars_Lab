@@ -1,0 +1,20 @@
+h1 {
+    background-color: antiquewhite;
+    text-align: center;
+}
+img {
+    width: 300px;
+    object-fit: contain;
+}
+table{
+    margin: 25px;
+    text-align: center;
+    border: 2px solid black;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+}
